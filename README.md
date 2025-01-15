@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data science
 - 📫 my telegram id is : @meysamspn
 - 😄 you can also connect me with my email : mr.johari67@gmail.com
-- ⚡ Fun fact: ...
+
 
 <!---
 MeysamJohari/MeysamJohari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
