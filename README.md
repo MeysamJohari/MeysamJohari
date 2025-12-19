@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MeysamJohari
-- 👀 I’m interested in play with data
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data science
+- 👀 I’m interested in Branding
+- 🌱 I’m currently learning how to learn
 - 📫 my telegram id is : @meysamspn
 - 😄 you can also connect me with my email : mr.johari67@gmail.com
 
